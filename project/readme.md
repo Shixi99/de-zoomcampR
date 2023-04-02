@@ -17,7 +17,7 @@ Our problem was we cannot see how the market is going. We want to get answers to
 
 ## Tech Stack
 
-First, data was scraped from the website and stored in AWS S3. Then, I used Prefect for orchestration, ensuring that the project's various components ran smoothly. The Prefect deployment was built with Docker infrastructure, which made deployment a breeze.
+First, data was scraped from the website and stored in **AWS S3**. Then, I used Prefect for orchestration, ensuring that the project's various components ran smoothly. The Prefect deployment was built with Docker infrastructure, which made deployment a breeze.
 
 To create resources in AWS, I utilized Terraform. This made it easy to manage and deploy the resources needed for the project.
 
