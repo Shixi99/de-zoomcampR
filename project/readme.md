@@ -3,18 +3,16 @@
 ## Problem Statement
 
 The aim of the project is to create a business-friendly dashboard to collect all the data from the real estate sale website and analyze the market. The result of the project is an interactive tableau dashboard in which we can easily see a bunch of parameters. 
-Our problem was we cannot see how the market is going. 
+Our problem was we cannot see how the market is going. We want to get answers to the questions below.
 
 - Does the price is increasing or decreasing?
-- What types of properties (houes/villa or apartment) are sold mostly?
+- What types of properties (house/villa or apartment) are sold mostly?
 - How many room houses are sold mostly?
 - Which size houses are sold mostly?
 - Which regions are more active than others?
 - Which are mortgage eligible?
 - Which are sold with document?
 - Are they new or old building?
-
-And other related questions can be answered in the dashboard.
 
 
 ## Tech Stack
@@ -29,7 +27,7 @@ The diagrams below were sketched in Exceldraw.
 
 <img  height='500' src='https://github.com/Shixi99/de-zoomcampR/blob/main/project/data%20flow%20charts/flow1.png'/>
 
-Alternatively, I also used Dremio to query data directly AWS S3 and I connect Dremio to Tableau for analytics.
+Alternatively, I also used Dremio (data lakehouse) to query data directly AWS S3 and I connect Dremio to Tableau for analytics.
 
 <img  height='500' src='https://github.com/Shixi99/de-zoomcampR/blob/main/project/data%20flow%20charts/flow%20with%20dremio.png'/>
 
