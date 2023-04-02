@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-The aim of the project is to create a business-friendly dashboard to collect all the data from the real estate sale website and analyze the market. The result of the project is an interactive tableau dashboard in which we can easily see a bunch of parameters. 
+The aim of the project is to collect all the data from the real estate sales website, then create a business-friendly dashboard and analyze the market. The result of the project is an interactive tableau dashboard, where we can easily see a set of parameters. 
 Our problem was we cannot see how the market is going. We want to get answers to the questions below.
 
 - Does the price is increasing or decreasing?
