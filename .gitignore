@@ -16,6 +16,11 @@ week_2/datasets
 week_2/venv
 week_2/*.csv
 
+project/venv
+project/tableau
+project/prefect/flows/.env
+project/prefect/flows/__pycache__
+
 
 # C extensions
 *.so
